@@ -19,7 +19,7 @@
   "license": "GNU v3",
   "homepage": "https://github.com/Krishna-Singhal/Whatsapp-NewsInshorts#readme",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^1.20.0",
     "express": "^4.17.1",
     "whatsapp-web.js": "^1.13.2"
   }
